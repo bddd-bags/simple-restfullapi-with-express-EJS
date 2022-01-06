@@ -1,5 +1,6 @@
 ## CHALLENGE CHAPTER 05
 
+untuk menginstall depedencies silahkan ketik **npm i**,
 untuk menjalankan server ketik **npm run start**,
 untuk menjalankan server mode developer **npm run dev**
 
